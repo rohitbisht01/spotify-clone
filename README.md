@@ -1,3 +1,6 @@
+![spotify-clone (2)](https://user-images.githubusercontent.com/70256801/139061161-9aa5e392-b9e8-4f1b-87fb-d65d3b27cf54.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
